@@ -118,3 +118,8 @@ body {
 	align-self: center;
 	margin: 0 auto;
 }
+.four {
+	position: absolute;
+	right: 200px;
+	top: 15px;
+}
