@@ -15,3 +15,6 @@ body {
 	display: block;
 	clear: both;
 }
+[class*="col-"] {
+	float: left;
+}
