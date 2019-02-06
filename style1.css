@@ -71,3 +71,7 @@ body {
 	text-align: left;
 	padding-left: 30px;	
 }
+.submenu li:hover a {
+	background-color: white;
+	color: #2c71b8;
+}
