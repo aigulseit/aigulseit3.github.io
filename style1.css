@@ -62,3 +62,8 @@ body {
 .menu li:hover .submenu {
 	display: block;
 }
+.menu ul:after {
+	content: "";
+	display: block;
+	clear: both;
+}
