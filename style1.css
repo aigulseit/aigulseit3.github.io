@@ -83,3 +83,6 @@ body {
 	box-sizing: border-box;
 	float: left;
 }
+.cart input, .cart button {
+	background: transparent;	
+}
