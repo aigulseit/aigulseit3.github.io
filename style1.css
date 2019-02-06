@@ -97,3 +97,11 @@ body {
 	font-family: 'Roboto', sans-serif;
 	padding: 10px;
 }
+.cart button {
+	border: none;
+	height: 30px;
+	width: 30px;
+	background: #2c71b8;
+	cursor: pointer;
+	margin-top: 4px;
+}
