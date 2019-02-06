@@ -18,3 +18,9 @@ body {
 [class*="col-"] {
 	float: left;
 }
+.col-md-3 {
+	width: 25%;
+}
+.col-md-6 {
+	width: 50%;
+}
