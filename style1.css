@@ -59,3 +59,6 @@ body {
 	width: 200%;
 	z-index: 5;
 }
+.menu li:hover .submenu {
+	display: block;
+}
