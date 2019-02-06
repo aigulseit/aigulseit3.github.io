@@ -105,3 +105,12 @@ body {
 	cursor: pointer;
 	margin-top: 4px;
 }
+.basket a {
+	display: flex;
+	justify-content: flex-end;
+	background-color: white;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	margin-left: 30px;
+}
