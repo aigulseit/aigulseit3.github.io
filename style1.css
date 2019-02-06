@@ -9,3 +9,9 @@ body {
 .container {
 	width: 1170px;
 	margin: 0 auto;
+}
+.row:after {
+	content: "";
+	display: block;
+	clear: both;
+}
