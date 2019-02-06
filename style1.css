@@ -28,3 +28,9 @@ body {
 	background-color: rgba(255,255,255,0.75);
 	padding: 25px 0;
 }
+.menu li {
+	float: left;
+	height: 50px;
+	width: 25%;
+	border-left: 1px solid #2c71b8;
+}
